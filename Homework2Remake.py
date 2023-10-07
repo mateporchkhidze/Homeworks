@@ -1,0 +1,8 @@
+grandpha = input("how old is your grandpha ? ")
+grandma = input("how old is your grandma ? ")
+mother = input("how old is your mother ? ")
+father = input("how old is your father ? ")
+print("grandpha age = " + grandpha)
+print("grandma age = " + grandma)
+print("mother age = " + mother)
+print("father age = " + father)
